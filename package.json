@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpolacek/styled-starter-basic.git"
+    "url": "git+https://github.com/johnpolacek/styled-starter-basic-gh-pages.git"
   },
   "keywords": [
     "react",
@@ -44,5 +44,5 @@
   ],
   "author": "John Polacek",
   "license": "ISC",
-  "homepage": "https://johnpolacek.github.io/styled-starter-basic"
+  "homepage": "https://johnpolacek.github.io/styled-starter-basic-gh-pages"
 }
